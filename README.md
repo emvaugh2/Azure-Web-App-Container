@@ -108,4 +108,4 @@ Well, the source of this web page is a `home.pug` file that has all of our websi
 
 Now do I know all of the specifics and what each part of the app.js and home.pug files mean? I don't understand the syntax. I don't understand all of the Docker syntax. But these all work together to easily create a website. 
 
-Recap, the Web App can host the docker file which is instructed to install an OS (CentOS) that can handle the instruced node.js and npm packages that can run the app.js file which is able to efficiently read the home.pug file. Thats the  point of this lab. 
+Recap, the Web App can host the docker file which is instructed to install an OS (CentOS) that can handle the instructed node.js and npm packages that can run the app.js file which is able to efficiently read the home.pug file. Thats the  point of this lab. 
